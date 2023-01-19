@@ -1,0 +1,6 @@
+table_name,column,target_column,transform
+customer_model,customer_id,customer_id,None
+customer_model,cust_name,cust_name,None
+customer_model,city,city,None
+customer_model,grade,grade,None
+customer_model,salesman_id,salesman_id,None

@@ -1,0 +1,5 @@
+table_name,column,target_column,transform
+sales_model,salesman_id,salesman_id,None
+sales_model,name,name,None
+sales_model,city,city,None
+sales_model,commission,commission,None

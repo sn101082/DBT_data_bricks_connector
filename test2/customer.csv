@@ -1,0 +1,6 @@
+table_name,column,target_column,transform
+customer,customer_id,customer_id,None
+customer,cust_name,cust_name,lower(cust_name)
+customer,city,city,None
+customer,grade,grade,None
+customer,salesman_id,salesman_id,None

@@ -1,0 +1,7 @@
+table_name,column,target_column,transform
+metadata,Source_table,Source_table,None
+metadata,Key_columns,Key_columns,None
+metadata,Target_Table,Target_Table,None
+metadata,Target_Table_key_column,Target_Table_key_column,None
+metadata,Output_Columns,Output_Columns,None
+metadata,Join type,Join type,None
